@@ -1,0 +1,782 @@
+[
+  {
+    "path": "assets/ch01/p006-probability-modes.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 6,
+    "crop": [
+      42,
+      163,
+      1462,
+      770
+    ],
+    "width": 1420,
+    "height": 607,
+    "sha256": "68b1b25fb54da8c9fa816ba63e35e5a4f91794dfcd2d504421cf9c037b59ae01"
+  },
+  {
+    "path": "assets/ch01/p014-avsr-noise.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 14,
+    "crop": [
+      59,
+      141,
+      1336,
+      782
+    ],
+    "width": 1277,
+    "height": 641,
+    "sha256": "275e8785e06216f5d40955a9cc1e961b7214e2cc30df7895753c6d05354b7b87"
+  },
+  {
+    "path": "assets/ch01/p020-task-history-early.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 20,
+    "crop": [
+      116,
+      137,
+      1388,
+      782
+    ],
+    "width": 1272,
+    "height": 645,
+    "sha256": "fa2b0745764ab928e22fab0d8e4f3cd25505fa529db9abdfd89a49e16095cf84"
+  },
+  {
+    "path": "assets/ch01/p021-task-history-recent.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 21,
+    "crop": [
+      115,
+      225,
+      1427,
+      760
+    ],
+    "width": 1312,
+    "height": 535,
+    "sha256": "ab24b15209a0945a96e678ef51ed4023db9dec94e1e3b84764aa51fa6837f386"
+  },
+  {
+    "path": "assets/ch01/p024-dense-captioning.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 24,
+    "crop": [
+      69,
+      139,
+      1407,
+      756
+    ],
+    "width": 1338,
+    "height": 617,
+    "sha256": "366f03239b7362dc0cf4a7a92ea894c1c7519990919359c8d8486be1f0458d97"
+  },
+  {
+    "path": "assets/ch01/p027-referring-expression.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 27,
+    "crop": [
+      24,
+      125,
+      1380,
+      770
+    ],
+    "width": 1356,
+    "height": 645,
+    "sha256": "1703cfbe17adb85484819b0429bae344192bfa9c2a2bff649dc4a591d16459ac"
+  },
+  {
+    "path": "assets/ch01/p028-referring-datasets.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 28,
+    "crop": [
+      24,
+      125,
+      1406,
+      715
+    ],
+    "width": 1382,
+    "height": 590,
+    "sha256": "d0b07ceb8b3d02aa4546e142ba9b244d60d10d83931f0b557f61268d56086436"
+  },
+  {
+    "path": "assets/ch01/p032-video-qa.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 32,
+    "crop": [
+      24,
+      111,
+      1444,
+      763
+    ],
+    "width": 1420,
+    "height": 652,
+    "sha256": "0f3886dfdda40460a2128c423f98ecd338ffab9421e2ea93285909fccc2a0056"
+  },
+  {
+    "path": "assets/ch01/p033-visual-commonsense.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 33,
+    "crop": [
+      24,
+      111,
+      1379,
+      782
+    ],
+    "width": 1355,
+    "height": 671,
+    "sha256": "02ee1882e6a6c2995dff803d69257abebac0c30f19bb7c373c86eca9d45016d9"
+  },
+  {
+    "path": "assets/ch01/p034-bird-generation.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 34,
+    "crop": [
+      19,
+      140,
+      1497,
+      781
+    ],
+    "width": 1478,
+    "height": 641,
+    "sha256": "366fe1479e0a4151e024db169240784864e908eac2a42456adfd411d76eab315"
+  },
+  {
+    "path": "assets/ch01/p035-text-to-image.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 35,
+    "crop": [
+      41,
+      160,
+      1358,
+      736
+    ],
+    "width": 1317,
+    "height": 576,
+    "sha256": "11e8c2fea7cb57e4e00782e1983909d498b4ac57381b45563a2489d5e21cb46e"
+  },
+  {
+    "path": "assets/ch01/p038-driving-sensors.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 38,
+    "crop": [
+      37,
+      139,
+      1453,
+      781
+    ],
+    "width": 1416,
+    "height": 642,
+    "sha256": "9c652614398d6fe0c8436dbdb45fbb9d4b142354cfc461aa71b6b183b7e3151a"
+  },
+  {
+    "path": "assets/ch01/p039-cvpr-2024-2025.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 39,
+    "crop": [
+      44,
+      135,
+      1500,
+      782
+    ],
+    "width": 1456,
+    "height": 647,
+    "sha256": "03ddde4a155bd8759a388d51f9b480afccfaacb6beed9b728284a1f3d9f10a72"
+  },
+  {
+    "path": "assets/ch01/p040-cvpr-2026.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 40,
+    "crop": [
+      51,
+      129,
+      1272,
+      766
+    ],
+    "width": 1221,
+    "height": 637,
+    "sha256": "54c96e04f4274bdfdebb15d1b03a42fbd49d23ee1e28bf131bdc14d10b996118"
+  },
+  {
+    "path": "assets/ch01/p041-acl-2023.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 41,
+    "crop": [
+      253,
+      110,
+      1334,
+      781
+    ],
+    "width": 1081,
+    "height": 671,
+    "sha256": "6bd7d4a4a7743bcf1fbab8f681160421c52e41f63dfced5195a06365beb86d2c"
+  },
+  {
+    "path": "assets/ch01/p057-embedding-arithmetic.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 57,
+    "crop": [
+      59,
+      156,
+      1452,
+      782
+    ],
+    "width": 1393,
+    "height": 626,
+    "sha256": "ac709288e87816487419b39896d02a25fcf1f39337c6ac2d8603d4056f1d7f4c"
+  },
+  {
+    "path": "assets/ch01/p058-joint-coordinated.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 58,
+    "crop": [
+      59,
+      156,
+      1421,
+      714
+    ],
+    "width": 1362,
+    "height": 558,
+    "sha256": "2da00880575cd88bc3c3a8add954fff801d0df0a292d2dd1eeb6078a505a4bc4"
+  },
+  {
+    "path": "assets/ch01/p060-explicit-alignment.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 60,
+    "crop": [
+      59,
+      156,
+      1463,
+      776
+    ],
+    "width": 1404,
+    "height": 620,
+    "sha256": "e2e8263d3b832c726f0ceaaed616c00d54d3105e9d3f870c6edcdde639b5f15c"
+  },
+  {
+    "path": "assets/ch01/p062-implicit-alignment.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 62,
+    "crop": [
+      58,
+      156,
+      1425,
+      754
+    ],
+    "width": 1367,
+    "height": 598,
+    "sha256": "a2d3c3f31b7909e4c9aecad3918be9c71711b47ebeb944e429a02ee045cfa7d5"
+  },
+  {
+    "path": "assets/ch01/p063-video-grounding.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 63,
+    "crop": [
+      59,
+      118,
+      1405,
+      778
+    ],
+    "width": 1346,
+    "height": 660,
+    "sha256": "c73ab9588d261b98c4649da6b8348b4d9dd64aa484738c89b4c0aaf3d50b497c"
+  },
+  {
+    "path": "assets/ch01/p064-language-to-pose.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 64,
+    "crop": [
+      59,
+      156,
+      1394,
+      768
+    ],
+    "width": 1335,
+    "height": 612,
+    "sha256": "73b329dabeecfe75194a9543ecbdb5fe280201ec91432678bf3126e546cc8d1d"
+  },
+  {
+    "path": "assets/ch01/p067-controlled-video.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 67,
+    "crop": [
+      59,
+      124,
+      1393,
+      764
+    ],
+    "width": 1334,
+    "height": 640,
+    "sha256": "b46bdceb3e812c73249f3674af8ec317b4df7b35a97b398aed73b03ca0e1007a"
+  },
+  {
+    "path": "assets/ch01/p069-multimodal-fusion.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 69,
+    "crop": [
+      59,
+      156,
+      1439,
+      782
+    ],
+    "width": 1380,
+    "height": 626,
+    "sha256": "c574bccf694661467bcf7e04f7cbc625e79ba60131457a2743ec304f8ba2bb07"
+  },
+  {
+    "path": "assets/ch01/p070-co-learning-data.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 70,
+    "crop": [
+      59,
+      156,
+      1396,
+      766
+    ],
+    "width": 1337,
+    "height": 610,
+    "sha256": "b30dba0a6d201e9cf4b8d9bf13ed999595a5634df61379bd9da7b7d651e4f208"
+  },
+  {
+    "path": "assets/ch01/p071-vico-cooccurrences.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 71,
+    "crop": [
+      59,
+      156,
+      1302,
+      754
+    ],
+    "width": 1243,
+    "height": 598,
+    "sha256": "c00a999d01d99d100ec6f4e2ddd2bf6f55fcb7d3972014662c8b72c683187683"
+  },
+  {
+    "path": "assets/ch01/p072-vico-clusters.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 72,
+    "crop": [
+      59,
+      156,
+      1266,
+      766
+    ],
+    "width": 1207,
+    "height": 610,
+    "sha256": "76619fa0104fc17e61036882b2937a26f5da7b7c10d1d0dc9b536f719160be5d"
+  },
+  {
+    "path": "assets/ch01/p091-visual-understanding.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 91,
+    "crop": [
+      59,
+      122,
+      1499,
+      768
+    ],
+    "width": 1440,
+    "height": 646,
+    "sha256": "f70e8974160baa2f39cc248b89af6e275777035725420480e54818ae3182a67a"
+  },
+  {
+    "path": "assets/ch01/p092-bolometer-example.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 92,
+    "crop": [
+      18,
+      132,
+      1499,
+      759
+    ],
+    "width": 1481,
+    "height": 627,
+    "sha256": "9558a7b8117de1337d07540450d453b77075ac8228eef6605cecd982ae9d863a"
+  },
+  {
+    "path": "assets/ch01/p102-flamingo-reading.jpg",
+    "chapter": "ch01",
+    "source_pdf": "1_Introduction_MultimodalLearning-26.pdf",
+    "pdf_page": 102,
+    "crop": [
+      60,
+      156,
+      1331,
+      782
+    ],
+    "width": 1271,
+    "height": 626,
+    "sha256": "09a483f0f9010cabede91af86105bb26f93da522eb3f3b5017ac4639c0fec630"
+  },
+  {
+    "path": "assets/ch02/p005-linear-layers.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 5,
+    "crop": [
+      117,
+      123,
+      1454,
+      779
+    ],
+    "width": 1337,
+    "height": 656,
+    "sha256": "6f8106fcd22ab44420ef7ed42304e0556c8af34227b65a92f371993ac0f1d4f7"
+  },
+  {
+    "path": "assets/ch02/p013-sigmoid-step.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 13,
+    "crop": [
+      101,
+      139,
+      1399,
+      782
+    ],
+    "width": 1298,
+    "height": 643,
+    "sha256": "be5767b298260981481c9b9e9c4d204af9ab65941c47ebc5147e4c39c3481ec0"
+  },
+  {
+    "path": "assets/ch02/p015-sigmoid-bump.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 15,
+    "crop": [
+      98,
+      145,
+      1362,
+      760
+    ],
+    "width": 1264,
+    "height": 615,
+    "sha256": "2693f3fb6c326cd6dd4b9c59aa316174db4c4f4407d10d4c5b0f48220a20e8fd"
+  },
+  {
+    "path": "assets/ch02/p016-riemann-network.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 16,
+    "crop": [
+      247,
+      137,
+      1193,
+      782
+    ],
+    "width": 946,
+    "height": 645,
+    "sha256": "678f5ca898b9c4b6c3f1a8c18858ee65f09da2ceaff19b47abf8c92cb0eb19ba"
+  },
+  {
+    "path": "assets/ch02/p017-riemann-approximation.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 17,
+    "crop": [
+      260,
+      158,
+      1256,
+      746
+    ],
+    "width": 996,
+    "height": 588,
+    "sha256": "65ed809f4d9b5c4c352188e742f88215b1ea9cf035fd6da490e4893abd67b8e3"
+  },
+  {
+    "path": "assets/ch02/p025-gradient-zigzag.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 25,
+    "crop": [
+      13,
+      133,
+      1494,
+      774
+    ],
+    "width": 1481,
+    "height": 641,
+    "sha256": "5da7a6c6306d16e0d9cbf4c5cb9e731bcc5b7808073d5b56c17341cd011c490a"
+  },
+  {
+    "path": "assets/ch02/p031-swish-curves.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 31,
+    "crop": [
+      4,
+      160,
+      1483,
+      772
+    ],
+    "width": 1479,
+    "height": 612,
+    "sha256": "6b6d0bf9f7da64727d20f569d7a8631c15f30ec950ea6c5e1c35d853721ad42d"
+  },
+  {
+    "path": "assets/ch02/p033-swiglu-gate.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 33,
+    "crop": [
+      87,
+      161,
+      1376,
+      670
+    ],
+    "width": 1289,
+    "height": 509,
+    "sha256": "04c7ed46c1ad3874ea993a8ba3eafc826e71b08bdf904838fe57134abf909f21"
+  },
+  {
+    "path": "assets/ch02/p035-underfit-overfit.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 35,
+    "crop": [
+      240,
+      170,
+      1229,
+      753
+    ],
+    "width": 989,
+    "height": 583,
+    "sha256": "9bdbf74b67ea5862c0ce82af69521cb1277f13c8d16be6e0c30a47de272ea8ba"
+  },
+  {
+    "path": "assets/ch02/p041-batchnorm-fc.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 41,
+    "crop": [
+      74,
+      138,
+      1445,
+      782
+    ],
+    "width": 1371,
+    "height": 644,
+    "sha256": "8cb36c63f2ecc6c0eaad8e1676fce5f9885af4cfdee841f199785e01a7ff264c"
+  },
+  {
+    "path": "assets/ch02/p042-batchnorm-conv.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 42,
+    "crop": [
+      74,
+      140,
+      1445,
+      782
+    ],
+    "width": 1371,
+    "height": 642,
+    "sha256": "850ea4f5d761a5f9ce39e7e3ff93473df4618cc4d67fc7c2a5937666afcf56ca"
+  },
+  {
+    "path": "assets/ch02/p047-normalization-axes.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 47,
+    "crop": [
+      93,
+      235,
+      1437,
+      782
+    ],
+    "width": 1344,
+    "height": 547,
+    "sha256": "5593a9bddbbe87105be31eb1257da0decc2b18f8923fb21c5650fdf03e04c892"
+  },
+  {
+    "path": "assets/ch02/p049-layernorm-xor.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 49,
+    "crop": [
+      53,
+      144,
+      1476,
+      761
+    ],
+    "width": 1423,
+    "height": 617,
+    "sha256": "612aba393a4c6788e3846f64e132c87796fdbefc3d27e6e29fc68e3a52ad103a"
+  },
+  {
+    "path": "assets/ch02/p052-adaln.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 52,
+    "crop": [
+      58,
+      169,
+      1486,
+      782
+    ],
+    "width": 1428,
+    "height": 613,
+    "sha256": "041e604eac7fc8f410a577a5847277ba3c6abb4e06a77d25d2b4f5592abe6943"
+  },
+  {
+    "path": "assets/ch02/p060-loss-learning-rate.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 60,
+    "crop": [
+      105,
+      176,
+      1396,
+      733
+    ],
+    "width": 1291,
+    "height": 557,
+    "sha256": "7c3768a7d7aeaea7f4a5bf4ecb179f2529ef6c0f5c2aac40381fbf5b955a926b"
+  },
+  {
+    "path": "assets/ch02/p061-step-lr.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 61,
+    "crop": [
+      40,
+      192,
+      1437,
+      680
+    ],
+    "width": 1397,
+    "height": 488,
+    "sha256": "b7770af8c136db187cf095eba7f096d221210c737aa09df87e6cd4ca4bbe89b0"
+  },
+  {
+    "path": "assets/ch02/p074-training-validation.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 74,
+    "crop": [
+      68,
+      183,
+      1409,
+      714
+    ],
+    "width": 1341,
+    "height": 531,
+    "sha256": "0936b13f7025a2f12924141e0f9423b00c2db0fe4a32530eb86d9d54f95839e3"
+  },
+  {
+    "path": "assets/ch02/p088-prelu-computational-graph.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 88,
+    "crop": [
+      129,
+      145,
+      1104,
+      730
+    ],
+    "width": 975,
+    "height": 585,
+    "sha256": "f6c1b13def9d8858751cbb12d15ef1062f49c139fb466b8bc11eae38408a4077"
+  },
+  {
+    "path": "assets/ch02/p116-regularization-fit.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 116,
+    "crop": [
+      34,
+      160,
+      1457,
+      769
+    ],
+    "width": 1423,
+    "height": 609,
+    "sha256": "e15fc0df11771a5ad1af81da734d6798dda20ddad0985e72f2e48a0023253f02"
+  },
+  {
+    "path": "assets/ch02/p122-l1-l2-geometry.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 122,
+    "crop": [
+      164,
+      148,
+      1422,
+      757
+    ],
+    "width": 1258,
+    "height": 609,
+    "sha256": "e7cceb12a7d7353c9ae27a8bea648708d738cd0f1f0c4b26c48d4d2ad3018d55"
+  },
+  {
+    "path": "assets/ch02/p123-dropout-network.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 123,
+    "crop": [
+      63,
+      149,
+      1406,
+      780
+    ],
+    "width": 1343,
+    "height": 631,
+    "sha256": "e5a1889749839f6029dbfb7d4f9559cf70ccfe2ab2296a50096dc20fa57e0f66"
+  },
+  {
+    "path": "assets/ch02/p125-dropout-features.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 125,
+    "crop": [
+      91,
+      186,
+      1438,
+      645
+    ],
+    "width": 1347,
+    "height": 459,
+    "sha256": "637f8c657ccd5b4b7d4c3e209e791280c6a8cba59eb93dc605b11208a1596349"
+  },
+  {
+    "path": "assets/ch02/p128-dropout-expectation.jpg",
+    "chapter": "ch02",
+    "source_pdf": "2_Introduction_DeepLearning_26.pdf",
+    "pdf_page": 128,
+    "crop": [
+      53,
+      142,
+      1416,
+      782
+    ],
+    "width": 1363,
+    "height": 640,
+    "sha256": "422569c4ce25e2e80936ebc4873113f121c44e89af5c9bdb29a1adfaf8321ce7"
+  }
+]
