@@ -778,5 +778,1280 @@
     "width": 1363,
     "height": 640,
     "sha256": "422569c4ce25e2e80936ebc4873113f121c44e89af5c9bdb29a1adfaf8321ce7"
+  },
+  {
+    "path": "assets/ch03/p011-shared-local-filters.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 11,
+    "crop": [
+      208,
+      146,
+      1365,
+      777
+    ],
+    "width": 1157,
+    "height": 631,
+    "sha256": "283bdcf111b0f93cb1f9370fea9c85c4cd410f3b5ec44e3eac2c66a06146c80d"
+  },
+  {
+    "path": "assets/ch03/p027-sliding-convolution.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 27,
+    "crop": [
+      455,
+      205,
+      1050,
+      621
+    ],
+    "width": 595,
+    "height": 416,
+    "sha256": "afec9ba4b1e1f8df7a45c4bb544faa100521a10d71d05cd611bfdbc2a78bd885"
+  },
+  {
+    "path": "assets/ch03/p029-mean-filter.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 29,
+    "crop": [
+      66,
+      149,
+      1477,
+      660
+    ],
+    "width": 1411,
+    "height": 511,
+    "sha256": "1a7906e304287fcc7a6041784712169697b2a8d5d73d3dcaa35f37fdc3366234"
+  },
+  {
+    "path": "assets/ch03/p031-edge-filter.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 31,
+    "crop": [
+      66,
+      149,
+      1479,
+      782
+    ],
+    "width": 1413,
+    "height": 633,
+    "sha256": "426c39161f5693dee5569316ff930106059d851be483769f859ad4a6ed24e309"
+  },
+  {
+    "path": "assets/ch03/p038-rgb-convolution.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 38,
+    "crop": [
+      145,
+      159,
+      1366,
+      744
+    ],
+    "width": 1221,
+    "height": 585,
+    "sha256": "10e1483ee583d7127e16cb0a643a6a3b4fbeafd6fda08a065676238d90f71055"
+  },
+  {
+    "path": "assets/ch03/p041-stacked-convolution.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 41,
+    "crop": [
+      167,
+      212,
+      1394,
+      713
+    ],
+    "width": 1227,
+    "height": 501,
+    "sha256": "eb5b56bbc0005ecc12d40a9ac6710e98b05262a135a77f6ed57c80fbf1fae35c"
+  },
+  {
+    "path": "assets/ch03/p045-stride-padding.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 45,
+    "crop": [
+      169,
+      147,
+      1283,
+      754
+    ],
+    "width": 1114,
+    "height": 607,
+    "sha256": "98d78bcf579e5151f6c8752f9e6fcb93d461b02234a66bfd7dae7973d8460e5d"
+  },
+  {
+    "path": "assets/ch03/p046-pointwise-convolution.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 46,
+    "crop": [
+      174,
+      161,
+      1386,
+      732
+    ],
+    "width": 1212,
+    "height": 571,
+    "sha256": "694282d2ae3e63e4330584333c4d9d8f1cfdfe92d14a85df888c51361fab7c55"
+  },
+  {
+    "path": "assets/ch03/p054-cnn-components.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 54,
+    "crop": [
+      88,
+      165,
+      1400,
+      710
+    ],
+    "width": 1312,
+    "height": 545,
+    "sha256": "86cd76ccd8781aa6642dcaad7a8f1fc2ecc75472a46a7083f894fd693e795589"
+  },
+  {
+    "path": "assets/ch03/p059-max-pooling.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 59,
+    "crop": [
+      117,
+      169,
+      1391,
+      640
+    ],
+    "width": 1274,
+    "height": 471,
+    "sha256": "9c747bbffb22e83277d775f66a73848afed76bd45c9b4e51868d179c7156295a"
+  },
+  {
+    "path": "assets/ch03/p060-average-pooling.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 60,
+    "crop": [
+      92,
+      177,
+      1407,
+      664
+    ],
+    "width": 1315,
+    "height": 487,
+    "sha256": "f7bce7ec6de05429ab703fc60c4d827c083bed338cfd58beb6dd8bcc77477aa4"
+  },
+  {
+    "path": "assets/ch03/p066-alexnet-original.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 66,
+    "crop": [
+      72,
+      112,
+      1458,
+      764
+    ],
+    "width": 1386,
+    "height": 652,
+    "sha256": "67e2dd5858cb4d49ee575a4a228672074f77fbe6d0caff3018fd080f50cc9074"
+  },
+  {
+    "path": "assets/ch03/p084-alexnet-cost-table.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 84,
+    "crop": [
+      169,
+      190,
+      1333,
+      652
+    ],
+    "width": 1164,
+    "height": 462,
+    "sha256": "7b06459bb1bd47cfdc5cbe36fa4e55aba02effa04debaaf2f31ce34918cb245a"
+  },
+  {
+    "path": "assets/ch03/p086-activation-memory.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 86,
+    "crop": [
+      61,
+      185,
+      1454,
+      737
+    ],
+    "width": 1393,
+    "height": 552,
+    "sha256": "fb758636e768778dcb484f332075b7418ab8480433cd39a5022e119733bfbbb9"
+  },
+  {
+    "path": "assets/ch03/p091-imagenet-history.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 91,
+    "crop": [
+      109,
+      191,
+      1379,
+      745
+    ],
+    "width": 1270,
+    "height": 554,
+    "sha256": "ff2e6bd6673fd1ec94a17ec1440c49c232ce70079d5c0539d6d54676e4e19642"
+  },
+  {
+    "path": "assets/ch03/p094-degradation.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 94,
+    "crop": [
+      147,
+      154,
+      1385,
+      746
+    ],
+    "width": 1238,
+    "height": 592,
+    "sha256": "f72607b115d9438ab7cd07fcae2768734000dc4901d547445e91ac146877c00c"
+  },
+  {
+    "path": "assets/ch03/p097-residual-blocks.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 97,
+    "crop": [
+      106,
+      115,
+      1404,
+      768
+    ],
+    "width": 1298,
+    "height": 653,
+    "sha256": "348952fd68ba9131479e074dbf730edc19f6ac07ba91712c0c22d9d0c5687061"
+  },
+  {
+    "path": "assets/ch03/p098-accuracy-complexity.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 98,
+    "crop": [
+      157,
+      170,
+      1344,
+      716
+    ],
+    "width": 1187,
+    "height": 546,
+    "sha256": "8d5706f369802b38d3bf20d16a057816b14b010f52756a5b9b38d43ecfbc1377"
+  },
+  {
+    "path": "assets/ch03/p100-squeeze-excitation.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 100,
+    "crop": [
+      73,
+      142,
+      1393,
+      746
+    ],
+    "width": 1320,
+    "height": 604,
+    "sha256": "26ee356ebfae2c41d438e65c91227160602e64b7a907c6950c3deb06624a1b00"
+  },
+  {
+    "path": "assets/ch03/p109-depthwise-separable.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 109,
+    "crop": [
+      176,
+      157,
+      1363,
+      723
+    ],
+    "width": 1187,
+    "height": 566,
+    "sha256": "9e7c491e31715b0d786593f6c793cb927972cf122c31bad9a6367723fef1975e"
+  },
+  {
+    "path": "assets/ch03/p111-efficient-backbones.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 111,
+    "crop": [
+      94,
+      146,
+      1463,
+      776
+    ],
+    "width": 1369,
+    "height": 630,
+    "sha256": "809fe140d3754e5a9f98a9080b2f074ecfb00a419eabdd99fff082a8cff7c672"
+  },
+  {
+    "path": "assets/ch03/p112-roofline-kernel-latency.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 112,
+    "crop": [
+      75,
+      110,
+      1488,
+      764
+    ],
+    "width": 1413,
+    "height": 654,
+    "sha256": "48dceac91350c6df622f2b0197a2ae453ed395f0c1da198874a32919d5a4c54b"
+  },
+  {
+    "path": "assets/ch03/p113-large-kernel-shortcut.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 113,
+    "crop": [
+      75,
+      156,
+      1232,
+      744
+    ],
+    "width": 1157,
+    "height": 588,
+    "sha256": "3e241fb1951e4a8600104bcfbe871d53e7bff258b1be502f2a31d53112f764dd"
+  },
+  {
+    "path": "assets/ch03/p114-kernel-reparameterization.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 114,
+    "crop": [
+      75,
+      156,
+      1453,
+      782
+    ],
+    "width": 1378,
+    "height": 626,
+    "sha256": "8a95f3be5e39dd6cdce54f0084090fe5f6ee3019fea7409c66cd0194d9cf322d"
+  },
+  {
+    "path": "assets/ch03/p121-large-kernel-downstream.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 121,
+    "crop": [
+      75,
+      156,
+      1466,
+      782
+    ],
+    "width": 1391,
+    "height": 626,
+    "sha256": "491731a029a57e6031221a6d61372b4aa19fa27a48225b90b879cb36762b06df"
+  },
+  {
+    "path": "assets/ch03/p122-small-feature-large-kernel.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 122,
+    "crop": [
+      42,
+      156,
+      1473,
+      761
+    ],
+    "width": 1431,
+    "height": 605,
+    "sha256": "06a7f5759362505bda87dc6a15b1b2942ed7e6980c964109333a8f1af27eda29"
+  },
+  {
+    "path": "assets/ch03/p123-replknet-architecture.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 123,
+    "crop": [
+      100,
+      142,
+      1439,
+      782
+    ],
+    "width": 1339,
+    "height": 640,
+    "sha256": "a627fc272b14c504735b85fa0026e62e1dea2b53bf3130684c1e6cdfb6430d0b"
+  },
+  {
+    "path": "assets/ch03/p124-replknet-detection-segmentation.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 124,
+    "crop": [
+      70,
+      125,
+      1397,
+      775
+    ],
+    "width": 1327,
+    "height": 650,
+    "sha256": "c6c958631605d612edf9d1be4dd3446d485506895d77780bec2459677fd01f56"
+  },
+  {
+    "path": "assets/ch03/p127-context-ambiguity.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 127,
+    "crop": [
+      57,
+      135,
+      1282,
+      749
+    ],
+    "width": 1225,
+    "height": 614,
+    "sha256": "25c1824613a64d58460df6ffcde77f676a6a89e78e9b61215819fe87310a6c5f"
+  },
+  {
+    "path": "assets/ch03/p129-overlock-architecture.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 129,
+    "crop": [
+      46,
+      135,
+      1469,
+      782
+    ],
+    "width": 1423,
+    "height": 647,
+    "sha256": "50d4c71f491345cf321c31631dc08ccba60923278f32905a7d9b8099c844ae3d"
+  },
+  {
+    "path": "assets/ch03/p130-contmix.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 130,
+    "crop": [
+      27,
+      135,
+      1500,
+      782
+    ],
+    "width": 1473,
+    "height": 647,
+    "sha256": "52097759dbc43f5df387dcb7e114b974b75181aa461b0abc7cd4b85ebe6b5066"
+  },
+  {
+    "path": "assets/ch03/p131-overlock-performance.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 131,
+    "crop": [
+      58,
+      135,
+      1421,
+      746
+    ],
+    "width": 1363,
+    "height": 611,
+    "sha256": "309f86db0235207530d628bd766d3a15d0deff3e943643a355505daa2350fb0a"
+  },
+  {
+    "path": "assets/ch03/p132-overlock-ablation-robustness.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 132,
+    "crop": [
+      58,
+      131,
+      1357,
+      780
+    ],
+    "width": 1299,
+    "height": 649,
+    "sha256": "929cd45ae5ce7e99072ab68fbd842b9d240430ca0fe17175b2fdcc2fe223f1be"
+  },
+  {
+    "path": "assets/ch03/p137-training-crops.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 137,
+    "crop": [
+      107,
+      142,
+      1403,
+      770
+    ],
+    "width": 1296,
+    "height": 628,
+    "sha256": "9b09ed26a4dab2794e6cdd66b1dc203e2145d5865580bca8d536e3ffef6f1286"
+  },
+  {
+    "path": "assets/ch03/p138-color-jitter.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 138,
+    "crop": [
+      132,
+      135,
+      1398,
+      738
+    ],
+    "width": 1266,
+    "height": 603,
+    "sha256": "92adfd8be4a10e0b2fd78e0af5a84cd54ad67069458853f2b876213ef1b41f38"
+  },
+  {
+    "path": "assets/ch03/p139-mixup.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 139,
+    "crop": [
+      57,
+      155,
+      1430,
+      782
+    ],
+    "width": 1373,
+    "height": 627,
+    "sha256": "4568f946b6990df41cea6a655ea5038d9569bccbade71d282e3394e8df83dc2c"
+  },
+  {
+    "path": "assets/ch03/p141-augmentation-taxonomy.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 141,
+    "crop": [
+      76,
+      139,
+      1458,
+      690
+    ],
+    "width": 1382,
+    "height": 551,
+    "sha256": "3df9c740163cadf53c9b8eec93b23870b572844f5929ba3585d9a8af2e601d35"
+  },
+  {
+    "path": "assets/ch03/p142-augmentation-selection.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 142,
+    "crop": [
+      92,
+      139,
+      1489,
+      624
+    ],
+    "width": 1397,
+    "height": 485,
+    "sha256": "1ed6883d7f4b3deca9f9cc94a50693f121351a4774c54de15fca3d77b7d8ba9c"
+  },
+  {
+    "path": "assets/ch03/p144-vgg-stages.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 144,
+    "crop": [
+      69,
+      124,
+      1443,
+      780
+    ],
+    "width": 1374,
+    "height": 656,
+    "sha256": "81773e05b6d5ddecab533f9982eabb942fcf3b6536cb04e879d753af76b8ba39"
+  },
+  {
+    "path": "assets/ch03/p149-receptive-field.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 149,
+    "crop": [
+      69,
+      124,
+      1443,
+      767
+    ],
+    "width": 1374,
+    "height": 643,
+    "sha256": "3a3c0edfeb553294fd2ffd3111e8ecbffa87d6d6c82dd399a6862fa3e5d1c94c"
+  },
+  {
+    "path": "assets/ch03/p150-small-kernel-stack.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 150,
+    "crop": [
+      69,
+      124,
+      1443,
+      767
+    ],
+    "width": 1374,
+    "height": 643,
+    "sha256": "36e6f9221d55a0afdb7761543a1afe8526b50500ed4f6524733093886afd9fec"
+  },
+  {
+    "path": "assets/ch03/p151-alexnet-vgg-cost.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 151,
+    "crop": [
+      64,
+      160,
+      1447,
+      751
+    ],
+    "width": 1383,
+    "height": 591,
+    "sha256": "024ef256f986f3b504c4023680af5dba98c61a5364589e302946c8d5bc43b0f1"
+  },
+  {
+    "path": "assets/ch03/p153-googlenet-architecture.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 153,
+    "crop": [
+      59,
+      122,
+      1406,
+      777
+    ],
+    "width": 1347,
+    "height": 655,
+    "sha256": "29a90ace8825047896d9ba6c349ade80b459badbbec0486c06017718b318a999"
+  },
+  {
+    "path": "assets/ch03/p157-naive-inception.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 157,
+    "crop": [
+      43,
+      178,
+      1249,
+      624
+    ],
+    "width": 1206,
+    "height": 446,
+    "sha256": "29eaf1a6102583186b04b7751a04cef2d68fe27b9cc853997b93ec698d413eeb"
+  },
+  {
+    "path": "assets/ch03/p160-bottleneck-inception.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 160,
+    "crop": [
+      58,
+      178,
+      1462,
+      675
+    ],
+    "width": 1404,
+    "height": 497,
+    "sha256": "fa8b893427ad48a44c7df4252850c3f39fed811faa6fb8c8ab5a0e967175647b"
+  },
+  {
+    "path": "assets/ch03/p162-global-average-pooling.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 162,
+    "crop": [
+      59,
+      110,
+      1406,
+      770
+    ],
+    "width": 1347,
+    "height": 660,
+    "sha256": "6f694f1a119d622b3c19d220e34578e489b4c7004fd233fc19fb24e2cc1dbd24"
+  },
+  {
+    "path": "assets/ch03/p163-auxiliary-classifiers.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 163,
+    "crop": [
+      58,
+      122,
+      1416,
+      770
+    ],
+    "width": 1358,
+    "height": 648,
+    "sha256": "81d4d5b670345bd91622e726246042b675b0a5197f748d9c19c10f1ac83d508f"
+  },
+  {
+    "path": "assets/ch03/p165-nas-controller.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 165,
+    "crop": [
+      75,
+      167,
+      1500,
+      718
+    ],
+    "width": 1425,
+    "height": 551,
+    "sha256": "92f3928cb120585b320a20bc7676854985af1220c161f6aeb5673172fd334666"
+  },
+  {
+    "path": "assets/ch03/p166-nas-comparison.jpg",
+    "chapter": "ch03",
+    "source_pdf": "3_Introduction_ComputerVision_part1-26.pdf",
+    "pdf_page": 166,
+    "crop": [
+      69,
+      216,
+      1453,
+      715
+    ],
+    "width": 1384,
+    "height": 499,
+    "sha256": "3211cfe2dffb96664ec92d46493d1aff3f8d4dcd02f410dd1eb1e8ba00250cc3"
+  },
+  {
+    "path": "assets/ch04/p002-vision-tasks.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 2,
+    "crop": [
+      60,
+      208,
+      1406,
+      638
+    ],
+    "width": 1346,
+    "height": 430,
+    "sha256": "58a09914be02edf3dfb77775a481ed083f238c9139fa9b051addaaebaa1d8cb6"
+  },
+  {
+    "path": "assets/ch04/p007-voc-history.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 7,
+    "crop": [
+      195,
+      118,
+      1357,
+      760
+    ],
+    "width": 1162,
+    "height": 642,
+    "sha256": "c052b2a05f4d75948a99b7e77931a3239566d003c5d858691c116e523f0a4005"
+  },
+  {
+    "path": "assets/ch04/p011-variable-objects.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 11,
+    "crop": [
+      122,
+      137,
+      1418,
+      775
+    ],
+    "width": 1296,
+    "height": 638,
+    "sha256": "e274d92ed52aa3fcda7cbfa76a990e20c35379c7c22b1b58fa534b5b88ac3b34"
+  },
+  {
+    "path": "assets/ch04/p016-crop-classifier.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 16,
+    "crop": [
+      42,
+      259,
+      1467,
+      611
+    ],
+    "width": 1425,
+    "height": 352,
+    "sha256": "fb593457a63916bf7e731e4d07f4d1d8e1b26c57e227b91e3dd90225418f6671"
+  },
+  {
+    "path": "assets/ch04/p020-selective-search.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 20,
+    "crop": [
+      366,
+      131,
+      1111,
+      770
+    ],
+    "width": 745,
+    "height": 639,
+    "sha256": "30ac3c1691c92e60867fcc2a045a176a575bfb38480a9ab7e23dd35a812ac771"
+  },
+  {
+    "path": "assets/ch04/p026-rcnn-pipeline.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 26,
+    "crop": [
+      174,
+      177,
+      1454,
+      780
+    ],
+    "width": 1280,
+    "height": 603,
+    "sha256": "d5d3ece5c518c4a97b65b35d3bcee420ecdd541c63c01df700357344eaf8d88f"
+  },
+  {
+    "path": "assets/ch04/p039-fast-rcnn.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 39,
+    "crop": [
+      103,
+      156,
+      1445,
+      782
+    ],
+    "width": 1342,
+    "height": 626,
+    "sha256": "8081cff8d54de9fbf2e38f8e49f0a424c5af32e4c8905890b497c4bffa0a62d9"
+  },
+  {
+    "path": "assets/ch04/p033-roi-pooling-example.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 33,
+    "crop": [
+      128,
+      193,
+      1175,
+      757
+    ],
+    "width": 1047,
+    "height": 564,
+    "sha256": "7b9ff6473b3650d676ad17f38d2d3b62623c1ba8775e798c281a6df50a1ba2f9"
+  },
+  {
+    "path": "assets/ch04/p036-roi-quantization.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 36,
+    "crop": [
+      47,
+      143,
+      1453,
+      676
+    ],
+    "width": 1406,
+    "height": 533,
+    "sha256": "f99448569b83ec7b1432270b259937f3122bb6611fd8aaacf210a768f31fbca2"
+  },
+  {
+    "path": "assets/ch04/p037-roi-align.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 37,
+    "crop": [
+      114,
+      134,
+      1392,
+      779
+    ],
+    "width": 1278,
+    "height": 645,
+    "sha256": "70fcea3ddf5089de9cb453a6dc8a42c50921492c2a9322678dcba8d02dd5216a"
+  },
+  {
+    "path": "assets/ch04/p040-rcnn-speed-table.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 40,
+    "crop": [
+      68,
+      232,
+      1444,
+      782
+    ],
+    "width": 1376,
+    "height": 550,
+    "sha256": "7d3b0027f2a709d29a7817b5a9d3559981ca1293efc0bdd47a2a8c21f5edf582"
+  },
+  {
+    "path": "assets/ch04/p046-rpn-output.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 46,
+    "crop": [
+      59,
+      138,
+      1440,
+      759
+    ],
+    "width": 1381,
+    "height": 621,
+    "sha256": "cf70d075ade88756e15f1c6c1dd3e115528b2f4dd5b628a617e311a0de9f462e"
+  },
+  {
+    "path": "assets/ch04/p047-faster-rcnn.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 47,
+    "crop": [
+      48,
+      127,
+      1457,
+      751
+    ],
+    "width": 1409,
+    "height": 624,
+    "sha256": "e7873a6948c9c8477dc17ed79c1e679d0ea60d706cb7a353869436c985386234"
+  },
+  {
+    "path": "assets/ch04/p055-l2-iou-mismatch.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 55,
+    "crop": [
+      268,
+      153,
+      1473,
+      782
+    ],
+    "width": 1205,
+    "height": 629,
+    "sha256": "9178c2504ac58aaa829ac9b6903c9c1c24d67fb644738cd8b8ae5f79ce4d18cd"
+  },
+  {
+    "path": "assets/ch04/p057-giou-containment.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 57,
+    "crop": [
+      77,
+      147,
+      1480,
+      782
+    ],
+    "width": 1403,
+    "height": 635,
+    "sha256": "6678da4d7431ca321a4a16d5b1bd5ea46800e7fa4b16e53c23bed8e5e9f0a447"
+  },
+  {
+    "path": "assets/ch04/p059-ciou-aspect-ratio.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 59,
+    "crop": [
+      77,
+      140,
+      1407,
+      771
+    ],
+    "width": 1330,
+    "height": 631,
+    "sha256": "e61e1d54004f65e92ddf63a3242ba304fbd9762c532eeafa2e3c52cdf00bd83f"
+  },
+  {
+    "path": "assets/ch04/p069-fcn-encoder-decoder.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 69,
+    "crop": [
+      94,
+      152,
+      1447,
+      730
+    ],
+    "width": 1353,
+    "height": 578,
+    "sha256": "8597e3043869f0755efce6b88135dd5f6dd28ad888d9e57f6bffe2eeed39dc23"
+  },
+  {
+    "path": "assets/ch04/p070-upsampling.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 70,
+    "crop": [
+      141,
+      198,
+      1426,
+      638
+    ],
+    "width": 1285,
+    "height": 440,
+    "sha256": "9372025746b8e65e73d065f71ee7bbd0cddf22681062646580bd914b99732c0f"
+  },
+  {
+    "path": "assets/ch04/p071-max-unpooling.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 71,
+    "crop": [
+      147,
+      149,
+      1307,
+      756
+    ],
+    "width": 1160,
+    "height": 607,
+    "sha256": "0c81efb11f8d542f0930ea7185d4b42d475333e893615c95049761ad7e07bafc"
+  },
+  {
+    "path": "assets/ch04/p072-transpose-convolution.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 72,
+    "crop": [
+      96,
+      143,
+      1367,
+      749
+    ],
+    "width": 1271,
+    "height": 606,
+    "sha256": "0b039e005dba2f32759554322fcd33bd59e364f7422fa335477838cff3ca0370"
+  },
+  {
+    "path": "assets/ch04/p073-transpose-convolution-1d.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 73,
+    "crop": [
+      118,
+      180,
+      1393,
+      729
+    ],
+    "width": 1275,
+    "height": 549,
+    "sha256": "c223ca3d1cb764e2c6c425f7dc04cbcaf5ca21341134ba4c839dd087d0e9da2c"
+  },
+  {
+    "path": "assets/ch04/p074-unet.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 74,
+    "crop": [
+      360,
+      133,
+      1136,
+      772
+    ],
+    "width": 776,
+    "height": 639,
+    "sha256": "340ad2188487e75e150b2c580254206009139b9439d00f27af2ef888bd0b5a12"
+  },
+  {
+    "path": "assets/ch04/p078-yolo-detection-examples.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 78,
+    "crop": [
+      202,
+      151,
+      1286,
+      768
+    ],
+    "width": 1084,
+    "height": 617,
+    "sha256": "d93c60fc7768eadd238e7226a828f6a9526c7c59835c0587a089104dc7af7d10"
+  },
+  {
+    "path": "assets/ch04/p081-yolo-grid-output.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 81,
+    "crop": [
+      87,
+      218,
+      1424,
+      734
+    ],
+    "width": 1337,
+    "height": 516,
+    "sha256": "cd24aa74984cc9924883447048e12a2ebdf71c1bfd4a69cb8bcca9854b6fa1fb"
+  },
+  {
+    "path": "assets/ch04/p085-focal-loss.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 85,
+    "crop": [
+      20,
+      139,
+      1487,
+      782
+    ],
+    "width": 1467,
+    "height": 643,
+    "sha256": "dee58656048dc41120ca1ba8a6351126b026d3d99e36c1fc82942530967b4ca1"
+  },
+  {
+    "path": "assets/ch04/p086-yolov1-architecture.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 86,
+    "crop": [
+      83,
+      137,
+      1416,
+      689
+    ],
+    "width": 1333,
+    "height": 552,
+    "sha256": "e1cd4a8d60670bd725c1a284dfbe69f68225dc0d766b6cb30ee010d595ba17e5"
+  },
+  {
+    "path": "assets/ch04/p088-yolov1-performance.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 88,
+    "crop": [
+      59,
+      176,
+      1476,
+      737
+    ],
+    "width": 1417,
+    "height": 561,
+    "sha256": "c4f0f4baf7d2d7f93cb870193a53133151b472adbf09f42f1643e722822b1a55"
+  },
+  {
+    "path": "assets/ch04/p091-yolov2-passthrough.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 91,
+    "crop": [
+      100,
+      125,
+      1484,
+      771
+    ],
+    "width": 1384,
+    "height": 646,
+    "sha256": "c369c0e0e54e4f61decdeb80c28a2422cb0cd597ef75129f941860697103d4e7"
+  },
+  {
+    "path": "assets/ch04/p092-yolov2-performance.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 92,
+    "crop": [
+      59,
+      176,
+      1463,
+      737
+    ],
+    "width": 1404,
+    "height": 561,
+    "sha256": "fa0dc456e0f89406dced2917a32f9faf314ee5a83c8837f560d49dc373098da2"
+  },
+  {
+    "path": "assets/ch04/p095-wordtree.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 95,
+    "crop": [
+      124,
+      139,
+      1453,
+      773
+    ],
+    "width": 1329,
+    "height": 634,
+    "sha256": "9d0813ffc7e9577d6d2745cca3813627bcac814facbb881a329eda4906ef16af"
+  },
+  {
+    "path": "assets/ch04/p096-yolov3-performance.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 96,
+    "crop": [
+      87,
+      136,
+      1166,
+      771
+    ],
+    "width": 1079,
+    "height": 635,
+    "sha256": "de4dad5b5f782ffe2742d46c368e2ad12203bdcdfc68a3008801c9770e953b60"
+  },
+  {
+    "path": "assets/ch04/p098-yolov4-performance.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 98,
+    "crop": [
+      345,
+      117,
+      1154,
+      762
+    ],
+    "width": 809,
+    "height": 645,
+    "sha256": "4809828cf221754f2569b78a891e15893a8ebef4eb8a3d75b5c7323d55228baf"
+  },
+  {
+    "path": "assets/ch04/p099-mosaic.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 99,
+    "crop": [
+      78,
+      127,
+      1464,
+      779
+    ],
+    "width": 1386,
+    "height": 652,
+    "sha256": "a8937697dabae87bad04385dc74c9fa98c4fbd313dae61d12fa92458f1cc01ba"
+  },
+  {
+    "path": "assets/ch04/p100-adversarial-example.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 100,
+    "crop": [
+      78,
+      127,
+      1464,
+      723
+    ],
+    "width": 1386,
+    "height": 596,
+    "sha256": "7d092f927ff250c4afcd011e58ca60f276c08bada4590e6b9bcb9906d1356dba"
+  },
+  {
+    "path": "assets/ch04/p102-dropblock-label-smoothing.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 102,
+    "crop": [
+      78,
+      127,
+      1495,
+      751
+    ],
+    "width": 1417,
+    "height": 624,
+    "sha256": "3cc989bcc3b702aa343b7b56c27c8b1b49f3848f83ec2ea44cd415327b020ce2"
+  },
+  {
+    "path": "assets/ch04/p103-yolo-timeline.jpg",
+    "chapter": "ch04",
+    "source_pdf": "4_Introduction_ComputerVision_part2-26.pdf",
+    "pdf_page": 103,
+    "crop": [
+      52,
+      112,
+      1397,
+      782
+    ],
+    "width": 1345,
+    "height": 670,
+    "sha256": "5b560bc6ad1478fe3abf895c1a8f97eefff7d5651c7d120283eea1f2fe512b72"
   }
 ]
