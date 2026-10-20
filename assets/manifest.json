@@ -2053,5 +2053,485 @@
     "width": 1345,
     "height": 670,
     "sha256": "5b560bc6ad1478fe3abf895c1a8f97eefff7d5651c7d120283eea1f2fe512b72"
+  },
+  {
+    "path": "assets/ch05/p009-syntax-parsing.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 9,
+    "crop": [
+      119,
+      177,
+      1455,
+      752
+    ],
+    "width": 1336,
+    "height": 575,
+    "sha256": "2d95d3f1f06fa3ac958bd67df138c2d0e97738f23795d3d57a0fa9608d3002c4"
+  },
+  {
+    "path": "assets/ch05/p015-sparse-bag-of-words.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 15,
+    "crop": [
+      76,
+      200,
+      1456,
+      705
+    ],
+    "width": 1380,
+    "height": 505,
+    "sha256": "636cb257975a4bf3e7c071675d35ac6983f7305de99a2d7067a9b745e5dcf72a"
+  },
+  {
+    "path": "assets/ch05/p023-cooccurrence-matrix.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 23,
+    "crop": [
+      80,
+      156,
+      1302,
+      772
+    ],
+    "width": 1222,
+    "height": 616,
+    "sha256": "d077c66ee4c644885441d52bc94c5ad5b000b3a9f5a8289e2c5ee2e48dbb9f9b"
+  },
+  {
+    "path": "assets/ch05/p024-euclidean-distance.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 24,
+    "crop": [
+      61,
+      130,
+      1460,
+      771
+    ],
+    "width": 1399,
+    "height": 641,
+    "sha256": "ae7405a0b6da9575e3e0e36aad9399140e7c039ae51fd7db4a9b4b5fe1ece7aa"
+  },
+  {
+    "path": "assets/ch05/p026-cosine-directions.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 26,
+    "crop": [
+      61,
+      128,
+      1447,
+      775
+    ],
+    "width": 1386,
+    "height": 647,
+    "sha256": "8f0a9c819cd396e1e1a9912dd76ce91c1619c0ea58581e1809fdaaa033e4e098"
+  },
+  {
+    "path": "assets/ch05/p028-cbow-skipgram.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 28,
+    "crop": [
+      58,
+      132,
+      1471,
+      782
+    ],
+    "width": 1413,
+    "height": 650,
+    "sha256": "731fc006e66ca6f7381d0257d1c8f364af5aa7d6ca42200c0168ddc2ca9fa8a7"
+  },
+  {
+    "path": "assets/ch05/p035-cbow-cat-lookup.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 35,
+    "crop": [
+      168,
+      132,
+      1456,
+      782
+    ],
+    "width": 1288,
+    "height": 650,
+    "sha256": "67be2723e36941c367083be9a457c03abdb150808e41536feebbdc2390958d8a"
+  },
+  {
+    "path": "assets/ch05/p036-cbow-on-lookup.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 36,
+    "crop": [
+      175,
+      127,
+      1456,
+      782
+    ],
+    "width": 1281,
+    "height": 655,
+    "sha256": "e322e3387041db03843ec8f0716ccf85ca2ade5826816e25b8188ce978c9adb6"
+  },
+  {
+    "path": "assets/ch05/p039-cbow-softmax.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 39,
+    "crop": [
+      213,
+      125,
+      1456,
+      782
+    ],
+    "width": 1243,
+    "height": 657,
+    "sha256": "afa1dfd87047d8d387b00c395f4f0f014005e92e0d1931d1a714c4c577759925"
+  },
+  {
+    "path": "assets/ch05/p042-cbow-source-formula.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 42,
+    "crop": [
+      160,
+      125,
+      1456,
+      780
+    ],
+    "width": 1296,
+    "height": 655,
+    "sha256": "21aae784861214f784573e4212bbfa37661f17ff7258917cc529827f75e9318f"
+  },
+  {
+    "path": "assets/ch05/p043-skipgram-architecture.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 43,
+    "crop": [
+      435,
+      144,
+      1456,
+      780
+    ],
+    "width": 1021,
+    "height": 636,
+    "sha256": "6b0273900ab81df8e0f1365e3856bab82f53f5e7cddc488dd5fef3570c50ebee"
+  },
+  {
+    "path": "assets/ch05/p044-word-analogy.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 44,
+    "crop": [
+      216,
+      132,
+      1272,
+      764
+    ],
+    "width": 1056,
+    "height": 632,
+    "sha256": "ab15db4a38bb1a41312d7e6c2038fb325f92bcbea8d352b6f70e6cd923ef33e2"
+  },
+  {
+    "path": "assets/ch05/p045-country-capital.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 45,
+    "crop": [
+      275,
+      118,
+      1205,
+      754
+    ],
+    "width": 930,
+    "height": 636,
+    "sha256": "e66b74cf57789e1637f9ac40fd9cf7d3a9311b75e25cc02d344b5755b51602db"
+  },
+  {
+    "path": "assets/ch05/p052-local-neural-language-model.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 52,
+    "crop": [
+      200,
+      164,
+      1296,
+      781
+    ],
+    "width": 1096,
+    "height": 617,
+    "sha256": "17250d52f662834db30a3e6d461e82e82a793e3b12cbcd46cbd8d756c746a067"
+  },
+  {
+    "path": "assets/ch05/p057-sequence-task-types.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 57,
+    "crop": [
+      98,
+      152,
+      1390,
+      772
+    ],
+    "width": 1292,
+    "height": 620,
+    "sha256": "f21a9e3fe54694e4f4bab134d71387f9daf6f564fef112ef4dc0f13fc848859d"
+  },
+  {
+    "path": "assets/ch05/p077-identity-rnn-example.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 77,
+    "crop": [
+      75,
+      149,
+      1436,
+      769
+    ],
+    "width": 1361,
+    "height": 620,
+    "sha256": "3debe39263381c3c47d37c763e59c5d141eadc6242d6c8cc8921d1bc45f9c838"
+  },
+  {
+    "path": "assets/ch05/p084-rnn-shared-loss.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 84,
+    "crop": [
+      240,
+      139,
+      1373,
+      747
+    ],
+    "width": 1133,
+    "height": 608,
+    "sha256": "c6eb86bf633bb6be42d71f404aa72aa0ed4d2f91c246698f68610ace2523847a"
+  },
+  {
+    "path": "assets/ch05/p089-character-training.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 89,
+    "crop": [
+      76,
+      192,
+      1373,
+      750
+    ],
+    "width": 1297,
+    "height": 558,
+    "sha256": "666fe70d0f5aa3b9089a49dd654f06c20a8ee634350ac814f0d612cbb7ac2628"
+  },
+  {
+    "path": "assets/ch05/p093-character-sampling.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 93,
+    "crop": [
+      44,
+      163,
+      1301,
+      781
+    ],
+    "width": 1257,
+    "height": 618,
+    "sha256": "74f8755bc9295da47bb2fba82311a68d194493cb406067a364cddee815cf678b"
+  },
+  {
+    "path": "assets/ch05/p096-scheduled-sampling.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 96,
+    "crop": [
+      60,
+      157,
+      1373,
+      723
+    ],
+    "width": 1313,
+    "height": 566,
+    "sha256": "a29309919649b2ddc221f8191693833c6481588aa1e6f5939e1e7a46e0ee40ad"
+  },
+  {
+    "path": "assets/ch05/p100-truncated-bptt.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 100,
+    "crop": [
+      20,
+      139,
+      1495,
+      780
+    ],
+    "width": 1475,
+    "height": 641,
+    "sha256": "06e8fe66caccb91e65d5f48aad1d0a91f3f6e1e46c31136cd44d743f56cd3536"
+  },
+  {
+    "path": "assets/ch05/p104-rnn-gradient-chain.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 104,
+    "crop": [
+      67,
+      182,
+      1392,
+      771
+    ],
+    "width": 1325,
+    "height": 589,
+    "sha256": "c3e4c98d13584d62e40212af0b5a8cb5d6416ec5afeccba1ec865435a44c81ec"
+  },
+  {
+    "path": "assets/ch05/p108-lstm-equations.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 108,
+    "crop": [
+      141,
+      191,
+      1359,
+      658
+    ],
+    "width": 1218,
+    "height": 467,
+    "sha256": "b9eb31ddeae40d239e224553b580b2394f9ac8fabba0bab6d884618a3a16d079"
+  },
+  {
+    "path": "assets/ch05/p109-lstm-cell-flow.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 109,
+    "crop": [
+      205,
+      158,
+      1366,
+      745
+    ],
+    "width": 1161,
+    "height": 587,
+    "sha256": "22983f121b83e4851d9a62c3797d3ef3cca90cf1c4a1b84a2c05d81cb6bd3227"
+  },
+  {
+    "path": "assets/ch05/p116-lstm-gradient-expansion.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 116,
+    "crop": [
+      81,
+      149,
+      1435,
+      777
+    ],
+    "width": 1354,
+    "height": 628,
+    "sha256": "da4765118ae2660465afc30e056c148b2911778b51933c9b77d640dc5b1b5bfe"
+  },
+  {
+    "path": "assets/ch05/p118-lstm-additive-path.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 118,
+    "crop": [
+      107,
+      179,
+      1397,
+      721
+    ],
+    "width": 1290,
+    "height": 542,
+    "sha256": "6614df5ca1dfed52b6b855788cec4a6811a7cc88d02705826d5dbad5decacd39"
+  },
+  {
+    "path": "assets/ch05/p120-graph-domains.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 120,
+    "crop": [
+      202,
+      134,
+      1227,
+      745
+    ],
+    "width": 1025,
+    "height": 611,
+    "sha256": "c02e8e287da52643b33d81af689b3dd43a86ec73c09f1fbdce0473e6f3100acb"
+  },
+  {
+    "path": "assets/ch05/p122-graph-embeddings.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 122,
+    "crop": [
+      86,
+      138,
+      1280,
+      739
+    ],
+    "width": 1194,
+    "height": 601,
+    "sha256": "cbeb2ccd6e84ff513207de57d2c0fff5b5e601cf880a52c065455e5efc758773"
+  },
+  {
+    "path": "assets/ch05/p125-node-computation-graphs.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 125,
+    "crop": [
+      179,
+      163,
+      1361,
+      749
+    ],
+    "width": 1182,
+    "height": 586,
+    "sha256": "6f2437019b0fc0f60bcafab6a53a62abb6e222cdf0f9f841708182daac15662c"
+  },
+  {
+    "path": "assets/ch05/p126-gnn-layer-sharing.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 126,
+    "crop": [
+      170,
+      147,
+      1324,
+      770
+    ],
+    "width": 1154,
+    "height": 623,
+    "sha256": "986598ef373f0722b335c2d8c82032875ef89b3ef122598cfcfb298ee26dd326"
+  },
+  {
+    "path": "assets/ch05/p127-gnn-classification.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 127,
+    "crop": [
+      134,
+      185,
+      1335,
+      753
+    ],
+    "width": 1201,
+    "height": 568,
+    "sha256": "034913cbd549fdc2a704cd63244ce3b6309e96b98a03eab204345f4b9088c533"
+  },
+  {
+    "path": "assets/ch05/p128-graph-aggregation.jpg",
+    "chapter": "ch05",
+    "source_pdf": "5_Introduction_NLP_2026.pdf",
+    "pdf_page": 128,
+    "crop": [
+      127,
+      128,
+      1341,
+      776
+    ],
+    "width": 1214,
+    "height": 648,
+    "sha256": "8a59887cbf73f3047098f0e654b6d52b644be2f1d7e1c2382cbb0275704994a3"
   }
 ]
