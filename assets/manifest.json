@@ -2533,5 +2533,635 @@
     "width": 1214,
     "height": 648,
     "sha256": "8a59887cbf73f3047098f0e654b6d52b644be2f1d7e1c2382cbb0275704994a3"
+  },
+  {
+    "path": "assets/ch06/p007-room-dominance.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 7,
+    "crop": [
+      46,
+      131,
+      1366,
+      736
+    ],
+    "width": 1320,
+    "height": 605,
+    "sha256": "c1659bf3ddd9fc625031b225093ecf66f92b7fffe085813793f3ec3fab8b96d9"
+  },
+  {
+    "path": "assets/ch06/p008-behavioral-taxonomy.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 8,
+    "crop": [
+      5,
+      146,
+      1495,
+      782
+    ],
+    "width": 1490,
+    "height": 636,
+    "sha256": "683ba7ea59db1047846ba1b60d645d2c1eb362546d7522bb6d18010223bacda2"
+  },
+  {
+    "path": "assets/ch06/p012-sentiment-interactions.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 12,
+    "crop": [
+      146,
+      158,
+      1296,
+      754
+    ],
+    "width": 1150,
+    "height": 596,
+    "sha256": "2b57a8689c7d3f1cefd26784a96dc4a4c48101c96db256f1ac226567236b00e7"
+  },
+  {
+    "path": "assets/ch06/p016-early-late-fusion.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 16,
+    "crop": [
+      164,
+      166,
+      1044,
+      744
+    ],
+    "width": 880,
+    "height": 578,
+    "sha256": "97a52cba31e595a42daf4ce1a71048e8f045ffb35440262899a5228c2002f4e1"
+  },
+  {
+    "path": "assets/ch06/p019-multiplicative-bilinear.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 19,
+    "crop": [
+      147,
+      169,
+      1309,
+      737
+    ],
+    "width": 1162,
+    "height": 568,
+    "sha256": "fb2b21a8c0f8329da6b68f8bad56c8df7aff067ece0daa2851806509c79f6894"
+  },
+  {
+    "path": "assets/ch06/p020-bilinear-sentiment.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 20,
+    "crop": [
+      147,
+      161,
+      1399,
+      744
+    ],
+    "width": 1252,
+    "height": 583,
+    "sha256": "a6b543c5dd45816151859e01a9e98afe4b220610fa0ec51031869cc3f79fa0d8"
+  },
+  {
+    "path": "assets/ch06/p021-tensor-fusion.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 21,
+    "crop": [
+      115,
+      155,
+      1463,
+      754
+    ],
+    "width": 1348,
+    "height": 599,
+    "sha256": "a2770ef1cdb18dd8e557f150218dbde292a10d140e1c723daa11c3b5b42f3c5d"
+  },
+  {
+    "path": "assets/ch06/p023-low-rank-overview.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 23,
+    "crop": [
+      52,
+      135,
+      1494,
+      768
+    ],
+    "width": 1442,
+    "height": 633,
+    "sha256": "b5b06b4190676b3781d0708a683ef60fc1cdb4d734c5f59942e29bc6abbe7bea"
+  },
+  {
+    "path": "assets/ch06/p027-low-rank-source-equations.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 27,
+    "crop": [
+      204,
+      182,
+      688,
+      708
+    ],
+    "width": 484,
+    "height": 526,
+    "sha256": "4ed06c2cbd9d8f02e9d7415e0650ca2840e94a1b0bb98185eeb8351490a42c1c"
+  },
+  {
+    "path": "assets/ch06/p028-trimodal-low-rank.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 28,
+    "crop": [
+      28,
+      131,
+      1448,
+      751
+    ],
+    "width": 1420,
+    "height": 620,
+    "sha256": "6cce063c69f02bcdd065a7e9a1fed44346050a37d5a6875e5fb77962ab3aa62b"
+  },
+  {
+    "path": "assets/ch06/p029-gated-fusion.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 29,
+    "crop": [
+      96,
+      161,
+      1500,
+      757
+    ],
+    "width": 1404,
+    "height": 596,
+    "sha256": "c395936e16aa21a242603293dbde6ea1a0fdfadcb316cbc23696280f47e2cdf4"
+  },
+  {
+    "path": "assets/ch06/p031-dynamic-fusion.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 31,
+    "crop": [
+      80,
+      160,
+      1419,
+      773
+    ],
+    "width": 1339,
+    "height": 613,
+    "sha256": "29b1274ccf5775f34c494297a399818bcacefb7bc3525328e2c1fa85ccb39420"
+  },
+  {
+    "path": "assets/ch06/p032-multimodal-autoencoder.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 32,
+    "crop": [
+      102,
+      144,
+      1363,
+      760
+    ],
+    "width": 1261,
+    "height": 616,
+    "sha256": "39796117dc2533b1878854f5ff780d78cfa442842b54fad7961a6108a5507bfd"
+  },
+  {
+    "path": "assets/ch06/p033-raw-modality-fusion.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 33,
+    "crop": [
+      93,
+      141,
+      1362,
+      779
+    ],
+    "width": 1269,
+    "height": 638,
+    "sha256": "549b89291e18f8c2589e0dcedd92ded5648ec6b069f6b5a5a7199b9251d77a6f"
+  },
+  {
+    "path": "assets/ch06/p034-fusion-spectrum.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 34,
+    "crop": [
+      65,
+      162,
+      1452,
+      640
+    ],
+    "width": 1387,
+    "height": 478,
+    "sha256": "44986153c3f5043bc2aa955ed70f75a27e19ee8420d31d9d644deb50b7e4fc93"
+  },
+  {
+    "path": "assets/ch06/p036-strong-partial-coordination.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 36,
+    "crop": [
+      96,
+      162,
+      1402,
+      734
+    ],
+    "width": 1306,
+    "height": 572,
+    "sha256": "73b3450393077127c64e2b4e1f3297b073bc85b368a16fdf595fc4ffb8947c0e"
+  },
+  {
+    "path": "assets/ch06/p039-covariance-scaling.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 39,
+    "crop": [
+      46,
+      132,
+      1478,
+      738
+    ],
+    "width": 1432,
+    "height": 606,
+    "sha256": "475c5586b0ab34de1825abfce4e2a0a7315883296b22cbc03b3c541497986b2e"
+  },
+  {
+    "path": "assets/ch06/p040-pearson-example.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 40,
+    "crop": [
+      33,
+      132,
+      1497,
+      754
+    ],
+    "width": 1464,
+    "height": 622,
+    "sha256": "4f410c49e20660758406c44569853fb34808e296b0ac0af8a179934513389c35"
+  },
+  {
+    "path": "assets/ch06/p044-correlation-scatter.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 44,
+    "crop": [
+      191,
+      184,
+      1275,
+      749
+    ],
+    "width": 1084,
+    "height": 565,
+    "sha256": "3286cc29f41f93be8b7fe760670cf502fd4228daf3991c660d3e66e65cfbf692"
+  },
+  {
+    "path": "assets/ch06/p046-kernel-lifting.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 46,
+    "crop": [
+      67,
+      144,
+      1443,
+      778
+    ],
+    "width": 1376,
+    "height": 634,
+    "sha256": "e5d2cba82ad5089460f6ad0c72df0f5bc19a79cda553e0bd19b7ede79a42ea7b"
+  },
+  {
+    "path": "assets/ch06/p051-cca-projection.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 51,
+    "crop": [
+      315,
+      170,
+      1361,
+      776
+    ],
+    "width": 1046,
+    "height": 606,
+    "sha256": "198d41c13c2ab7dada1f79d9f8518c09562a70501e2366bed58187d9e680d0a4"
+  },
+  {
+    "path": "assets/ch06/p054-cca-constraints.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 54,
+    "crop": [
+      144,
+      153,
+      1327,
+      742
+    ],
+    "width": 1183,
+    "height": 589,
+    "sha256": "b57abdf258bb9726e4efebb19f06df81d0343a28b9da047ca79b61634874a905"
+  },
+  {
+    "path": "assets/ch06/p055-dccae.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 55,
+    "crop": [
+      219,
+      152,
+      1272,
+      746
+    ],
+    "width": 1053,
+    "height": 594,
+    "sha256": "81c906811c99bc66c0621174a88e8585f6021e06a062a6b61285bd5aa716c1f8"
+  },
+  {
+    "path": "assets/ch06/p056-intact-space.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 56,
+    "crop": [
+      158,
+      118,
+      1272,
+      746
+    ],
+    "width": 1114,
+    "height": 628,
+    "sha256": "124d9b32cb5d000e7b10ce0e11e1d98ca00ef3a3318083d7a76f12bed7826e1b"
+  },
+  {
+    "path": "assets/ch06/p058-contrastive-source-margin.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 58,
+    "crop": [
+      80,
+      132,
+      1438,
+      772
+    ],
+    "width": 1358,
+    "height": 640,
+    "sha256": "dedb44735f401862fbe1c70d58c508ca9ea80178ec99e29475969167bc8e1c60"
+  },
+  {
+    "path": "assets/ch06/p060-clip-training.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 60,
+    "crop": [
+      94,
+      155,
+      1447,
+      764
+    ],
+    "width": 1353,
+    "height": 609,
+    "sha256": "74c76a39883d012c0b629822a427b5a27c82726c1339751f8e6b1732194f8b5b"
+  },
+  {
+    "path": "assets/ch06/p061-clip-zero-shot.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 61,
+    "crop": [
+      94,
+      155,
+      1472,
+      765
+    ],
+    "width": 1378,
+    "height": 610,
+    "sha256": "9dbdb6861bab015cc46f6977965ffd0b22b0050c81232fb741e3c121c01f5dca"
+  },
+  {
+    "path": "assets/ch06/p062-clip-experiments.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 62,
+    "crop": [
+      94,
+      154,
+      1371,
+      782
+    ],
+    "width": 1277,
+    "height": 628,
+    "sha256": "9ae86b164e065653923d1e7203966d42de493bd2309ff98f92b9c8ef0bbd5698"
+  },
+  {
+    "path": "assets/ch06/p064-fission-levels.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 64,
+    "crop": [
+      61,
+      141,
+      1440,
+      738
+    ],
+    "width": 1379,
+    "height": 597,
+    "sha256": "0e34cb021a1fdfb13c22037234cb6e97b7bb541046d6c27e1a75fdae2e424939"
+  },
+  {
+    "path": "assets/ch06/p067-factorized-objectives.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 67,
+    "crop": [
+      66,
+      181,
+      1436,
+      740
+    ],
+    "width": 1370,
+    "height": 559,
+    "sha256": "024ad1f4df4dd3fd0297ae87de2d62b09a1f32a0da5a990b2eca09ce7affb5c5"
+  },
+  {
+    "path": "assets/ch06/p073-entropy-mutual-information.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 73,
+    "crop": [
+      115,
+      181,
+      1377,
+      730
+    ],
+    "width": 1262,
+    "height": 549,
+    "sha256": "4f63336d432076abfebaea260812e06f34a2c2947107cea628895c9123b4da78"
+  },
+  {
+    "path": "assets/ch06/p075-augmented-view-information.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 75,
+    "crop": [
+      106,
+      253,
+      1379,
+      642
+    ],
+    "width": 1273,
+    "height": 389,
+    "sha256": "97110dc005df9ef8940ab67b3c1cde1e9649a93808ae66e23551ef1c84d1227f"
+  },
+  {
+    "path": "assets/ch06/p076-contrastive-augmentations.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 76,
+    "crop": [
+      8,
+      110,
+      1422,
+      782
+    ],
+    "width": 1414,
+    "height": 672,
+    "sha256": "e3013196a839d3a88673774d4d84825701fc79115337a1601aa63d269716d7aa"
+  },
+  {
+    "path": "assets/ch06/p077-simclr-batch.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 77,
+    "crop": [
+      42,
+      305,
+      1459,
+      727
+    ],
+    "width": 1417,
+    "height": 422,
+    "sha256": "cffcb640de7e1825d78006038e9b15476357d614618f2a726e1aa059b9217d8a"
+  },
+  {
+    "path": "assets/ch06/p078-infonce-source-bound.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 78,
+    "crop": [
+      128,
+      133,
+      1411,
+      671
+    ],
+    "width": 1283,
+    "height": 538,
+    "sha256": "ba802649e9f6617e2ce283291dfd8286b08f549c4469371a4bc6e7c057325d3e"
+  },
+  {
+    "path": "assets/ch06/p079-dino-distillation.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 79,
+    "crop": [
+      121,
+      234,
+      1432,
+      653
+    ],
+    "width": 1311,
+    "height": 419,
+    "sha256": "24ced9d620be4e22bf204660dc860c23c77ab3823ef36c86b6be7fede660ffbc"
+  },
+  {
+    "path": "assets/ch06/p080-mae-masking.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 80,
+    "crop": [
+      110,
+      137,
+      1433,
+      759
+    ],
+    "width": 1323,
+    "height": 622,
+    "sha256": "e8af5dffc291726c0f101d1fe2e2a696d0419deeee976ad746aec9fcb024ddbe"
+  },
+  {
+    "path": "assets/ch06/p083-rotation-task.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 83,
+    "crop": [
+      61,
+      146,
+      1413,
+      752
+    ],
+    "width": 1352,
+    "height": 606,
+    "sha256": "8f77898c8f1829b096e39819b31535086221a7433c315b849df5b5c07409d175"
+  },
+  {
+    "path": "assets/ch06/p084-rotation-transfer-table.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 84,
+    "crop": [
+      61,
+      146,
+      1413,
+      771
+    ],
+    "width": 1352,
+    "height": 625,
+    "sha256": "6cb199110581342329ee170559416415260b46158627a2923b0d497153cbca6e"
+  },
+  {
+    "path": "assets/ch06/p086-inpainting.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 86,
+    "crop": [
+      61,
+      147,
+      1140,
+      758
+    ],
+    "width": 1079,
+    "height": 611,
+    "sha256": "338698ce69b658fef7379dde046552f0e31f322cbb86fe3239e3df5dea70ef33"
+  },
+  {
+    "path": "assets/ch06/p087-colorization.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 87,
+    "crop": [
+      61,
+      291,
+      815,
+      695
+    ],
+    "width": 754,
+    "height": 404,
+    "sha256": "eb1c2499b4209de319493ea05fc9d2c9c5fbb4b406bf10d75f6e0c1e0b8d5805"
+  },
+  {
+    "path": "assets/ch06/p088-split-brain.jpg",
+    "chapter": "ch06",
+    "source_pdf": "6_Introduction_MML_part1_26.pdf",
+    "pdf_page": 88,
+    "crop": [
+      61,
+      147,
+      1410,
+      652
+    ],
+    "width": 1349,
+    "height": 505,
+    "sha256": "e60976013d0a763a42306f2ea1d843302cd419da1b05f9a7415f5b4b42422ec0"
   }
 ]
