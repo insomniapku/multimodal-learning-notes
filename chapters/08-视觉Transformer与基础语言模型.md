@@ -345,7 +345,7 @@ Llama 2 的预训练 token 从约 1.4T 增至 2T，课件概括为多约 40%；�
 训练链路为：自监督预训练得到 base model → SFT 得到初步聊天模型 → 人类反馈形成偏好对 → 分别训练 helpfulness 和 safety 奖励模型 → 通过拒绝采样、PPO 等 RLHF 步骤优化 → 反复收集偏好与更新聊天模型。不同奖励维度与数据支路应分别保留。
 
 ```mermaid
-flowchart LR
+flowchart TB
   D[预训练文本] --> B[自监督基础模型]
   B --> S[监督微调 SFT]
   H[人工示范回答] --> S
