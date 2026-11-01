@@ -3163,5 +3163,1040 @@
     "width": 1349,
     "height": 505,
     "sha256": "e60976013d0a763a42306f2ea1d843302cd419da1b05f9a7415f5b4b42422ec0"
+  },
+  {
+    "path": "assets/ch07/p003-alignment-types.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 3,
+    "crop": [
+      94,
+      155,
+      1423,
+      717
+    ],
+    "width": 1329,
+    "height": 562,
+    "sha256": "1b09d0dc1c8ecdc4e767cfb2375b825eb1992add47e0ebde4fb418fead9e6f6d"
+  },
+  {
+    "path": "assets/ch07/p009-contextual-sequence.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 9,
+    "crop": [
+      52,
+      138,
+      1498,
+      748
+    ],
+    "width": 1446,
+    "height": 610,
+    "sha256": "d28a6f2c80683932c3b82462460d547a29b4191a37e6f51b1cee419317522e0a"
+  },
+  {
+    "path": "assets/ch07/p017-rnn-bottleneck.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 17,
+    "crop": [
+      59,
+      132,
+      1430,
+      752
+    ],
+    "width": 1371,
+    "height": 620,
+    "sha256": "45665f4f8c10b945edff48d1a9b7aa8072ad91f9162e4f99d65e6ce7130c05f4"
+  },
+  {
+    "path": "assets/ch07/p027-rnn-soft-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 27,
+    "crop": [
+      65,
+      126,
+      1472,
+      773
+    ],
+    "width": 1407,
+    "height": 647,
+    "sha256": "9ecd82623857f05afbf9aab53cad95c212605ed7bc5dd63911478a680139cb0f"
+  },
+  {
+    "path": "assets/ch07/p028-bird-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 28,
+    "crop": [
+      27,
+      357,
+      1478,
+      571
+    ],
+    "width": 1451,
+    "height": 214,
+    "sha256": "ae4992ba24b6304a8064aef66248d3c7b55276ac401dc5863cf5f4ebb21ab355"
+  },
+  {
+    "path": "assets/ch07/p029-attention-examples.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 29,
+    "crop": [
+      72,
+      141,
+      1455,
+      738
+    ],
+    "width": 1383,
+    "height": 597,
+    "sha256": "41b125d80247d38bf8ec7eacbe4997dc958c2c84258082f8b2bdec46317801d8"
+  },
+  {
+    "path": "assets/ch07/p034-general-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 34,
+    "crop": [
+      76,
+      136,
+      1474,
+      782
+    ],
+    "width": 1398,
+    "height": 646,
+    "sha256": "2376666862c15ae8e16fd96561d43430f0d6b1d60f09986dd25b7b270b82f4c4"
+  },
+  {
+    "path": "assets/ch07/p036-scaled-dot-product.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 36,
+    "crop": [
+      72,
+      140,
+      1461,
+      703
+    ],
+    "width": 1389,
+    "height": 563,
+    "sha256": "b40d242d85d00094ae7947c4e8426ee5876ef2210c224428d724e7d2e45e6afa"
+  },
+  {
+    "path": "assets/ch07/p040-keys-values.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 40,
+    "crop": [
+      66,
+      113,
+      1435,
+      782
+    ],
+    "width": 1369,
+    "height": 669,
+    "sha256": "c6f3018443c9a8b120386effe475e361181c421e269779017ccf9561422e7d78"
+  },
+  {
+    "path": "assets/ch07/p044-self-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 44,
+    "crop": [
+      62,
+      116,
+      1412,
+      777
+    ],
+    "width": 1350,
+    "height": 661,
+    "sha256": "a09c70845e009be0954b75e9562abe2e2918ae10017406b2574e2c1dfb3b648e"
+  },
+  {
+    "path": "assets/ch07/p045-permutation-equivariance.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 45,
+    "crop": [
+      93,
+      148,
+      1383,
+      643
+    ],
+    "width": 1290,
+    "height": 495,
+    "sha256": "6d000270ee999ecb3c8f795d3071ffebb31064a781ca813bf554b073f1276da5"
+  },
+  {
+    "path": "assets/ch07/p047-position-options.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 47,
+    "crop": [
+      92,
+      125,
+      1441,
+      782
+    ],
+    "width": 1349,
+    "height": 657,
+    "sha256": "9a7ae9ebea9fd8076963f78011f1ebfcc170f39700de0f166e7889d0c5188155"
+  },
+  {
+    "path": "assets/ch07/p049-sinusoidal-relative.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 49,
+    "crop": [
+      60,
+      110,
+      1461,
+      778
+    ],
+    "width": 1401,
+    "height": 668,
+    "sha256": "0f3523f467e869a7ba5be5a48b574da783341ba7a9c9367c10464d40ebc9d56d"
+  },
+  {
+    "path": "assets/ch07/p051-causal-mask.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 51,
+    "crop": [
+      66,
+      113,
+      1390,
+      782
+    ],
+    "width": 1324,
+    "height": 669,
+    "sha256": "bb3683c2c3830ddfc35a9e4c5b8dc071353168e10cc6e600da298bdcda4448eb"
+  },
+  {
+    "path": "assets/ch07/p052-multihead.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 52,
+    "crop": [
+      267,
+      131,
+      1212,
+      780
+    ],
+    "width": 945,
+    "height": 649,
+    "sha256": "109be790460e1bad943b02a38d245a436f28ae66e86b7eaf0a075905251b95ab"
+  },
+  {
+    "path": "assets/ch07/p053-cross-self-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 53,
+    "crop": [
+      116,
+      280,
+      1271,
+      553
+    ],
+    "width": 1155,
+    "height": 273,
+    "sha256": "8a2256c273de99a9fcb5acede554c35bdeb696540f79fa31fbd6bd9c0848381f"
+  },
+  {
+    "path": "assets/ch07/p058-transformer-caption.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 58,
+    "crop": [
+      78,
+      154,
+      1465,
+      756
+    ],
+    "width": 1387,
+    "height": 602,
+    "sha256": "c8788ec5ff1d3051ab1e0c6a30f04b706bc6f26116cc0abf51bc61c475ab377b"
+  },
+  {
+    "path": "assets/ch07/p067-encoder-block.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 67,
+    "crop": [
+      57,
+      166,
+      1447,
+      762
+    ],
+    "width": 1390,
+    "height": 596,
+    "sha256": "3cfe70d5261468fc5317f62e95141d259904388c393cbee77483bfdd2c2520f0"
+  },
+  {
+    "path": "assets/ch07/p072-decoder-block.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 72,
+    "crop": [
+      89,
+      113,
+      1367,
+      782
+    ],
+    "width": 1278,
+    "height": 669,
+    "sha256": "f907324096731e8e961df51eb17e0063d752bcfbf5ffb7d17c243eaab1e7360c"
+  },
+  {
+    "path": "assets/ch07/p075-pixels-to-language.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 75,
+    "crop": [
+      67,
+      161,
+      1372,
+      756
+    ],
+    "width": 1305,
+    "height": 595,
+    "sha256": "03a21a604c200e58686d71cb6b4c5011b8292f4a3b47ac89f0f481c85b259faf"
+  },
+  {
+    "path": "assets/ch07/p077-dog-failure.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 77,
+    "crop": [
+      357,
+      177,
+      1080,
+      745
+    ],
+    "width": 723,
+    "height": 568,
+    "sha256": "0546bb9f1e6436e58f32abda5067b3bc0d7635920986a8104712ecd4826ba8b9"
+  },
+  {
+    "path": "assets/ch07/p078-region-attention.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 78,
+    "crop": [
+      70,
+      142,
+      1281,
+      745
+    ],
+    "width": 1211,
+    "height": 603,
+    "sha256": "faebc4e86498423f691df6ffd6750e0b164d9ad069845f52ecf26cdcd3e383f6"
+  },
+  {
+    "path": "assets/ch07/p079-object-relation-error.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 79,
+    "crop": [
+      70,
+      142,
+      1288,
+      776
+    ],
+    "width": 1218,
+    "height": 634,
+    "sha256": "8437abbae0f7311413f1c16eb4c6abf551151f4acc1da4224c6057490e4ea35f"
+  },
+  {
+    "path": "assets/ch07/p080-coarse-detector.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 80,
+    "crop": [
+      70,
+      142,
+      1140,
+      737
+    ],
+    "width": 1070,
+    "height": 595,
+    "sha256": "e34ead6067eb37759b43c2756bfd6ce8fd7b5f3a9c091f431ad9189de7dc68f7"
+  },
+  {
+    "path": "assets/ch07/p081-dense-detector.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 81,
+    "crop": [
+      70,
+      142,
+      1141,
+      745
+    ],
+    "width": 1071,
+    "height": 603,
+    "sha256": "6fae17a595d9470093f379bb9970c88f77ce9289dc2d66cc487afeefca2c0820"
+  },
+  {
+    "path": "assets/ch07/p082-detector-caption.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 82,
+    "crop": [
+      70,
+      142,
+      1240,
+      728
+    ],
+    "width": 1170,
+    "height": 586,
+    "sha256": "dacc4d82281b3b71c214327880c1c679197cf0419d9d5bdb9cb42683cec450d8"
+  },
+  {
+    "path": "assets/ch07/p083-relationship-types.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 83,
+    "crop": [
+      85,
+      144,
+      1245,
+      775
+    ],
+    "width": 1160,
+    "height": 631,
+    "sha256": "aaa53d4dacbe42c3bae11b0a65e5741204bde3734916b1902dfaf1e059ad00fb"
+  },
+  {
+    "path": "assets/ch07/p084-relation-gcn.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 84,
+    "crop": [
+      115,
+      188,
+      1362,
+      766
+    ],
+    "width": 1247,
+    "height": 578,
+    "sha256": "bf80a1bc72a5ebeddad96a82741ed62ac1ac77c855706030ec601432ddb84183"
+  },
+  {
+    "path": "assets/ch07/p085-gcn-caption-comparison.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 85,
+    "crop": [
+      54,
+      230,
+      1451,
+      688
+    ],
+    "width": 1397,
+    "height": 458,
+    "sha256": "960a9d6fe6462dcb19c67aae1c02f1be3e6412626868392fcdb99cb43dc3e2ef"
+  },
+  {
+    "path": "assets/ch07/p086-hierarchical-parsing.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 86,
+    "crop": [
+      47,
+      144,
+      1462,
+      761
+    ],
+    "width": 1415,
+    "height": 617,
+    "sha256": "f77ef940f0b2a59dffdb640d5c1224df008f755a1c21614db7c3ef583f7eb548"
+  },
+  {
+    "path": "assets/ch07/p088-benchmark-examples.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 88,
+    "crop": [
+      386,
+      128,
+      1090,
+      762
+    ],
+    "width": 704,
+    "height": 634,
+    "sha256": "96b3a58169891909094109c462d804580172a02e0e6bdfd93679d4e2f334e429"
+  },
+  {
+    "path": "assets/ch07/p090-dense-image-caption.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 90,
+    "crop": [
+      76,
+      158,
+      1225,
+      768
+    ],
+    "width": 1149,
+    "height": 610,
+    "sha256": "fc57bce6d8572982bb689d4981c4bd32d1df957d4a572474e7ccb9769627b4d9"
+  },
+  {
+    "path": "assets/ch07/p091-novel-objects.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 91,
+    "crop": [
+      75,
+      158,
+      1178,
+      774
+    ],
+    "width": 1103,
+    "height": 616,
+    "sha256": "88d205cf99e7b7cf14aceafd1163014a6dd3914871cb49fc44272583a5d66830"
+  },
+  {
+    "path": "assets/ch07/p092-caption-styles.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 92,
+    "crop": [
+      75,
+      152,
+      1323,
+      749
+    ],
+    "width": 1248,
+    "height": 597,
+    "sha256": "08837f3a8b4c3723363ce0f2094cf6eb395deea8373a796469cba6d636edb384"
+  },
+  {
+    "path": "assets/ch07/p094-video-aggregation.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 94,
+    "crop": [
+      74,
+      158,
+      1339,
+      779
+    ],
+    "width": 1265,
+    "height": 621,
+    "sha256": "f2ff0a694600c2e0ef7bf7d8f322753b91d278d726ea726b4b6e26d8dbbde331"
+  },
+  {
+    "path": "assets/ch07/p095-dense-video-events.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 95,
+    "crop": [
+      74,
+      158,
+      1283,
+      772
+    ],
+    "width": 1209,
+    "height": 614,
+    "sha256": "b28fc51a5d71c7290b8e52e83dab1f774fb9fb37ab0d075cde6b4d07dde6f05f"
+  },
+  {
+    "path": "assets/ch07/p096-dense-video-training.jpg",
+    "chapter": "ch07",
+    "source_pdf": "7_Introduction_MML_part2_2026.pdf",
+    "pdf_page": 96,
+    "crop": [
+      74,
+      158,
+      1420,
+      728
+    ],
+    "width": 1346,
+    "height": 570,
+    "sha256": "421a194054fe67ee554a0e483b97617727732892b62753450547a41d2268ea2a"
+  },
+  {
+    "path": "assets/ch08/p005-pixel-attention-memory.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 5,
+    "crop": [
+      90,
+      150,
+      1447,
+      757
+    ],
+    "width": 1357,
+    "height": 607,
+    "sha256": "7db3788271d2c823a072c89e3a0b9c968185d906a88450e119c80c9a56d9e878"
+  },
+  {
+    "path": "assets/ch08/p012-vit-patches.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 12,
+    "crop": [
+      5,
+      117,
+      1491,
+      737
+    ],
+    "width": 1486,
+    "height": 620,
+    "sha256": "b5dce72561afba0d15a0303edf57476d1d722da8e36e1e5933e2d823a6858c1d"
+  },
+  {
+    "path": "assets/ch08/p019-vit-data-scaling.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 19,
+    "crop": [
+      12,
+      137,
+      1483,
+      731
+    ],
+    "width": 1471,
+    "height": 594,
+    "sha256": "b38960c83376af149bdbf64c2de5ca2425f1e065f71fc60b961897f9ceb0c693"
+  },
+  {
+    "path": "assets/ch08/p027-vit-regularization-table.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 27,
+    "crop": [
+      32,
+      126,
+      1464,
+      782
+    ],
+    "width": 1432,
+    "height": 656,
+    "sha256": "8671fc6dbd2c7d30c8ff55dc7e3d5a2e1f2b4d80315f8257edf702d12b078970"
+  },
+  {
+    "path": "assets/ch08/p030-teacher-student.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 30,
+    "crop": [
+      53,
+      151,
+      1449,
+      728
+    ],
+    "width": 1396,
+    "height": 577,
+    "sha256": "8ddd66f64d6893f2d7582e3ddd685aaa447f46ce691bb0d04ad4d9d88680d08d"
+  },
+  {
+    "path": "assets/ch08/p034-distillation-token.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 34,
+    "crop": [
+      38,
+      110,
+      1499,
+      748
+    ],
+    "width": 1461,
+    "height": 638,
+    "sha256": "e1389e3b32c42bbc4926bc5aa2c0181a54cf2cd7e225b77dd7962996d3f95c96"
+  },
+  {
+    "path": "assets/ch08/p036-distillation-training-results.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 36,
+    "crop": [
+      57,
+      146,
+      1450,
+      744
+    ],
+    "width": 1393,
+    "height": 598,
+    "sha256": "887353019ec7ae2df64c0d7f0d770118c7b56d3644eef250a4ad9c3b3aa6f0ca"
+  },
+  {
+    "path": "assets/ch08/p038-bert-pretraining-finetuning.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 38,
+    "crop": [
+      128,
+      146,
+      1219,
+      721
+    ],
+    "width": 1091,
+    "height": 575,
+    "sha256": "2869ead1a72408bed3250e233f47ca00a257aeca5472a4c43ce290bd560478d3"
+  },
+  {
+    "path": "assets/ch08/p039-bert-input.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 39,
+    "crop": [
+      128,
+      146,
+      1332,
+      691
+    ],
+    "width": 1204,
+    "height": 545,
+    "sha256": "00b42e9daca555bd12607213bda732089d2e34f85c06c91457fc154e09a111bd"
+  },
+  {
+    "path": "assets/ch08/p040-bert-mlm-nsp.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 40,
+    "crop": [
+      70,
+      127,
+      1467,
+      782
+    ],
+    "width": 1397,
+    "height": 655,
+    "sha256": "0728547c8e59390f91ad887e0e5d2bf61dc21bb16c0add135db3a662e3c9e01d"
+  },
+  {
+    "path": "assets/ch08/p041-bert-classification.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 41,
+    "crop": [
+      128,
+      146,
+      1256,
+      756
+    ],
+    "width": 1128,
+    "height": 610,
+    "sha256": "c794efe99929a7131560bb9c8bf5f6feb1fb2c8743f982d1bf8dd1a2cb04eaf5"
+  },
+  {
+    "path": "assets/ch08/p042-bert-span-tagging.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 42,
+    "crop": [
+      128,
+      146,
+      1269,
+      782
+    ],
+    "width": 1141,
+    "height": 636,
+    "sha256": "1a0e461225b91c177ebf9fcff65216ba702122b1746effd4443fc80a1dfa1195"
+  },
+  {
+    "path": "assets/ch08/p044-gpt-language-model.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 44,
+    "crop": [
+      44,
+      146,
+      1368,
+      773
+    ],
+    "width": 1324,
+    "height": 627,
+    "sha256": "12e311901eb5ae1eef3f4331bd3fbd3715a2430440cba0a2d4dccb7eaca9de31"
+  },
+  {
+    "path": "assets/ch08/p045-gpt-task-inputs.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 45,
+    "crop": [
+      126,
+      146,
+      1119,
+      782
+    ],
+    "width": 993,
+    "height": 636,
+    "sha256": "5d934fb25ead935f5bfa59c8071078e3ec80d821d46157f78c91448b5db4744d"
+  },
+  {
+    "path": "assets/ch08/p047-gpt2-configuration.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 47,
+    "crop": [
+      126,
+      123,
+      1496,
+      759
+    ],
+    "width": 1370,
+    "height": 636,
+    "sha256": "95a3d8c91bb9d219a9c3804d67412dabe8ff4a453cbf0a581d1735d8a7d42aa3"
+  },
+  {
+    "path": "assets/ch08/p048-gpt2-scaling.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 48,
+    "crop": [
+      39,
+      164,
+      1487,
+      686
+    ],
+    "width": 1448,
+    "height": 522,
+    "sha256": "e02eecd5f7a7b8a5d8203e1f7a7f43310562042712f27d2335a9b3888fc33935"
+  },
+  {
+    "path": "assets/ch08/p049-in-context-learning.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 49,
+    "crop": [
+      24,
+      118,
+      1442,
+      782
+    ],
+    "width": 1418,
+    "height": 664,
+    "sha256": "8ea2dc6cf4ccdb11b366acb33f630fec79c9a3b8e04ec8791a86d8c05437d977"
+  },
+  {
+    "path": "assets/ch08/p051-gpt3-model-data-tables.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 51,
+    "crop": [
+      6,
+      141,
+      1451,
+      766
+    ],
+    "width": 1445,
+    "height": 625,
+    "sha256": "9b64ba3dab94f606da501c59721085afda144483bb6832d1613189b281076e38"
+  },
+  {
+    "path": "assets/ch08/p052-gpt3-lambada.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 52,
+    "crop": [
+      84,
+      152,
+      1369,
+      727
+    ],
+    "width": 1285,
+    "height": 575,
+    "sha256": "a31a7e3a189934335f4c78395d97ffc48ccc15f03d68965bfaf741b487968e9c"
+  },
+  {
+    "path": "assets/ch08/p053-gpt3-triviaqa.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 53,
+    "crop": [
+      84,
+      149,
+      1405,
+      760
+    ],
+    "width": 1321,
+    "height": 611,
+    "sha256": "ed9ba7fb736ddf34a3c10c63cc6b5aaca4047a2dcc197014f58a73ef0e6a1dda"
+  },
+  {
+    "path": "assets/ch08/p056-llama1-data.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 56,
+    "crop": [
+      71,
+      170,
+      1392,
+      735
+    ],
+    "width": 1321,
+    "height": 565,
+    "sha256": "9fd765be8a01a7d9b4af6f7e8992f2581f155e5cf4ee5ca3f800f03f183b262a"
+  },
+  {
+    "path": "assets/ch08/p058-llama2-overview.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 58,
+    "crop": [
+      71,
+      170,
+      1220,
+      781
+    ],
+    "width": 1149,
+    "height": 611,
+    "sha256": "a1c90d26ea437f64643901e3a62aaaa050469f63d7c554f1e8462c41e4fd9de9"
+  },
+  {
+    "path": "assets/ch08/p059-llama2-alignment.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 59,
+    "crop": [
+      73,
+      170,
+      1437,
+      686
+    ],
+    "width": 1364,
+    "height": 516,
+    "sha256": "4d41ba564509239be28be876b15f52270e21bbdd723cce9c74f3df5cfcb5a0d1"
+  },
+  {
+    "path": "assets/ch08/p060-llama2-loss.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 60,
+    "crop": [
+      72,
+      152,
+      1150,
+      782
+    ],
+    "width": 1078,
+    "height": 630,
+    "sha256": "ce786109a7bca2d5a3a8c177fa7bb0ec04bac824d8e605331d9d2402ccb9f09a"
+  },
+  {
+    "path": "assets/ch08/p061-mha-gqa-mqa.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 61,
+    "crop": [
+      73,
+      152,
+      1354,
+      654
+    ],
+    "width": 1281,
+    "height": 502,
+    "sha256": "2d0be74ccd73757178cff073c4a6f32eb3187dfdefa26dbd2116604365278228"
+  },
+  {
+    "path": "assets/ch08/p062-grouped-query.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 62,
+    "crop": [
+      73,
+      152,
+      1286,
+      752
+    ],
+    "width": 1213,
+    "height": 600,
+    "sha256": "aa3b8ec5e17497c6878893fb871b2316554db83c89ff929a27a2b0ad93fda9bc"
+  },
+  {
+    "path": "assets/ch08/p063-gqa-tradeoff.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 63,
+    "crop": [
+      73,
+      151,
+      1404,
+      773
+    ],
+    "width": 1331,
+    "height": 622,
+    "sha256": "eafed7b6061d7a9a22c609f4b2e05317aec4eb40c2550c9407007d2da8241cec"
+  },
+  {
+    "path": "assets/ch08/p064-llama3-human-evaluation.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 64,
+    "crop": [
+      72,
+      140,
+      1454,
+      769
+    ],
+    "width": 1382,
+    "height": 629,
+    "sha256": "3c168e80f3872d381cf797d98d5e623bf6cae2283d3135c4f88a287c6994b2d9"
+  },
+  {
+    "path": "assets/ch08/p065-llama3-source-benchmarks.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 65,
+    "crop": [
+      72,
+      140,
+      1386,
+      704
+    ],
+    "width": 1314,
+    "height": 564,
+    "sha256": "8bd262b594fdb7533f59dc4c63f9ae290173f8ea0340c67280a14cadc6e5865c"
+  },
+  {
+    "path": "assets/ch08/p067-llama-training-cost.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 67,
+    "crop": [
+      72,
+      140,
+      1385,
+      758
+    ],
+    "width": 1313,
+    "height": 618,
+    "sha256": "55040274a0776999913e8e55696fd142489f4f67bd7050d2c47146b847c44240"
+  },
+  {
+    "path": "assets/ch08/p069-lora-factorization.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 69,
+    "crop": [
+      73,
+      140,
+      1417,
+      782
+    ],
+    "width": 1344,
+    "height": 642,
+    "sha256": "8b6db12eaec81b3fc5e6e3e660782a3d0664790110591bef26256d5972fd79ec"
+  },
+  {
+    "path": "assets/ch08/p070-lora-initialization.jpg",
+    "chapter": "ch08",
+    "source_pdf": "8_Introduction_MML_part3_26.pdf",
+    "pdf_page": 70,
+    "crop": [
+      71,
+      139,
+      1465,
+      758
+    ],
+    "width": 1394,
+    "height": 619,
+    "sha256": "455ed462b5010cda6e07e3dbd8f209b78df4b4a2a23e99325300317e62f0a28a"
   }
 ]
